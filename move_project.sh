@@ -15,4 +15,3 @@ if [ -d "AntigravityProjects/Restart2025" ]; then
 fi
 
 echo "Detailed Move Complete!"
-go ahead
