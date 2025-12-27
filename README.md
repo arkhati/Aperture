@@ -23,7 +23,7 @@ You need **two separate terminal windows** running simultaneously.
 ### Terminal 1: Backend Server (FastAPI)
 This handles the AI processing (Text -> Script/Audio/Graph).
 
-1. Open a terminal at the project root (`Restart2025/`).
+1. Open a terminal at the project root (`Prism/`).
 2. Run the server:
    ```bash
    uvicorn api.main:app --reload
